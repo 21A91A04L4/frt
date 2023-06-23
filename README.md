@@ -1,4 +1,4 @@
-# ⚡ Preventive⚡
+# ⚡ Seva⚡
 
 This is a web based application developed for health related telugu based website in India.
 
@@ -19,27 +19,6 @@ This is a web based application developed for health related telugu based websit
 - Has collection of many web pages including Home, About Us , Contact,Menu, health topics and health related information etc.
 - User can know about health information through this webiste.
 - Included the feedback Survey form to increase the scope of improvement.
-
-## Screenshots
-
-
-<img width="960" alt="2023-05-24 (2)" src="screenshots/screen/Screenshot%20(31).png">
-
-
-
-### About us-
-<img width="960" alt="2023-05-24 (7)" src="screenshots/about/Aboutus.png">
-
-
-### Contact us-
- 
- 
- <img width="960" alt="2023-05-24 (12)" src="screenshots/contactus/contact.png">
-
-### Health bot
-
-<img width="737" alt="image" src="screenshots/healthbot/health.png">
-
 
 
 
